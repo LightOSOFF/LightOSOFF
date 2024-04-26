@@ -1,4 +1,6 @@
-Ecco i portafogli con i badge img.shield in formato Markdown:
+## Donations
+
+Your contributions are greatly appreciated! Feel free to donate any amount you wish using the following cryptocurrency wallets on the Coinbase network:
 
 ### Litecoin (LTC)
 [![Litecoin Wallet](https://img.shields.io/badge/LTC-ltc1qdl63e0nt23xq0d0jkkql0qjladsc3d2qev05h8-blue)](litecoin:ltc1qdl63e0nt23xq0d0jkkql0qjladsc3d2qev05h8)
