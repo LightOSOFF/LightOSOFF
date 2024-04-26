@@ -1,18 +1,7 @@
-# LightOS - Italian Development Team
+[![Contact Us](https://img.shields.io/badge/Contact%20Us-blue?logo=telegram)](Contact.md)
+[![Donations](https://img.shields.io/badge/Donations-green?logo=bitcoin)](Donation.md)
 
-LightOS è un team di sviluppatori italiani dedicato a portare l'illuminazione nel mondo della tecnologia. Con sede nelle affascinanti terre d'Italia, il nostro team è composto da menti brillanti e appassionate che lavorano insieme per creare soluzioni software innovative e all'avanguardia.
 
-Il nome "LightOS" riflette la nostra missione di portare chiarezza e luminosità attraverso il nostro lavoro. Siamo focalizzati sullo sviluppo di sistemi operativi avanzati e software all'avanguardia che migliorano l'esperienza digitale degli utenti.
-
-La nostra squadra è composta da programmatori, progettisti e ingegneri del software altamente qualificati, ognuno dei quali porta una prospettiva unica e competenze specializzate al tavolo. Collaboriamo in modo sinergico per affrontare sfide complesse e realizzare progetti ambiziosi.
-
-LightOS si impegna a mantenere gli standards più elevati di qualità e innovazione. Siamo appassionati di adottare nuove tecnologie e metodologie per assicurarci di offrire prodotti e servizi all'avanguardia. La nostra filosofia è basata sull'agilità, sull'apertura al cambiamento e sulla creazione di soluzioni su misura per soddisfare le esigenze specifiche dei nostri clienti.
-
-Inoltre, promuoviamo un ambiente di lavoro positivo e collaborativo, dove ogni membro del team è valorizzato e incoraggiato a contribuire con idee creative. LightOS non è solo un team di sviluppatori, ma una comunità di innovatori che condivide la stessa visione di un futuro tecnologico luminoso.
-
-Siamo pronti a illuminare il cammino nel mondo digitale con LightOS, dove la passione per la tecnologia si unisce alla maestria nello sviluppo software per creare soluzioni straordinarie.
-
----
 
 # LightOS - Italian Development Team
 
@@ -28,6 +17,3 @@ Furthermore, we promote a positive and collaborative working environment where e
 
 We are ready to illuminate the path in the digital world with LightOS, where passion for technology meets expertise in software development to create extraordinary solutions.
 
----
-
-[:it: Versione Italiana](#lightos---italian-development-team) | [:us: English Version](#lightos---italian-development-team)
